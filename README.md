@@ -1,18 +1,20 @@
-## Contact
-Jack Barnes
-
-[jack@jackbarnes.dev](mailto:jack@jackbarnes.dev)
+## Jack Barnes
+- Email: [jack@jackbarnes.dev](mailto:jack@jackbarnes.dev)
 
 ## Links
-[Github](https://github.com/Barnesjt)
-
-[LinkedIn](https://www.linkedin.com/in/barnesjack)
-
-[Home](https://jackbarnes.dev)
+- [Github](https://github.com/Barnesjt)
+- [LinkedIn](https://www.linkedin.com/in/barnesjack)
+- [Home](https://jackbarnes.dev)
 
 ## Education
-- MS Computer Science, Oregon State University, June 2022, 3.88 GPA
-- BS Computer Science, Oregon State University, June 2020, 3.27 GPA
+- MS Computer Science: 
+  - Oregon State University
+  - June 2022
+  - 3.88 GPA
+- BS Computer Science:
+  - Oregon State University
+  - June 2020
+  - 3.27 GPA
 
 ## Projects
 - **Xtra.run**: [Repository](https://github.com/barnesjt/xtra-ui) 
